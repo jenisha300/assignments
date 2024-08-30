@@ -1,0 +1,13 @@
+.bg{
+    background-image: url("https://img.freepik.com/free-photo/nature-landscape-with-beach-view_23-2151682958.jpg");
+    height: 600px;
+    width: 400px;
+    background-repeat: no-repeat;
+}
+
+.bg-2{
+    background-image: url("https://img.freepik.com/free-photo/anime-style-earth_23-2151076536.jpg");
+    height: 800px;
+    width: 450px;
+    background-repeat: no-repeat;
+}
